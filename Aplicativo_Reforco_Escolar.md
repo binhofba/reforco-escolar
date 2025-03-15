@@ -38,13 +38,13 @@ Aplicativo de Reforço Escolar
 
 
 ### **URLs Importantes**
-- **Repositório de Código-Fonte**: [https://github.com/seu-repositorio](https://github.com/seu-repositorio)
-- **Quadro de Acompanhamento do Projeto**: [https://github.com/seu-repositorio/projects/1](https://github.com/seu-repositorio/projects/1)
+- **Repositório de Código-Fonte**:  https://github.com/binhofba/reforco-escolar.git
+- **Quadro de Acompanhamento do Projeto**: https://github.com/binhofba/reforco-escolar/projects?query=is%3Aopen
 
 ### **Interessados**
 - **Alunos**: Usuários finais do sistema.
-- **Professores**: Responsáveis por criar conteúdo.
-- **Administradores**: Responsáveis pela manutenção e gestão do sistema.
+- **Professores**: Fabio Batista de Almeida.
+- **Administradores**: Fabio Batista de Almeida.
 
 ---
 
