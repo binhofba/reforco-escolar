@@ -2,10 +2,7 @@
 # **Aplicativo de Reforço Escolar**
 
 ## **Integrantes do Grupo**
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
+- Fabio Batista de Almeida
 
 ## **URLs Importantes**
 - **Repositório de Código-Fonte**: [https://github.com/seu-repositorio](https://github.com/seu-repositorio)
