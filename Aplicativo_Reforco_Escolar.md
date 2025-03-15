@@ -66,7 +66,7 @@ Aplicativo de Reforço Escolar
 
 ## **Capítulo 4: Diagrama de Casos de Uso**
 
-![Diagrama de Casos de Uso](caminho/para/o/diagrama.png)
+![Diagrama de Casos de Uso]https://github.com/binhofba/reforco-escolar/blob/main/refor%C3%A7o%20escolalar.pdf
 
 ---
 
