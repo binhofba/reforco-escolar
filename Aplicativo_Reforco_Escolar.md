@@ -6,12 +6,12 @@
 
 ## **URLs Importantes**
 - **Repositório de Código-Fonte**: https://github.com/binhofba/reforco-escolar.git
-- **Quadro de Acompanhamento do Projeto**: [https://github.com/seu-repositorio/projects/1](https://github.com/seu-repositorio/projects/1)
+- **Quadro de Acompanhamento do Projeto**: https://github.com/binhofba/reforco-escolar/projects?query=is%3Aopen
 
 ## **Interessados**
 - **Alunos**: Usuários finais que utilizarão o aplicativo para assistir às videoaulas e realizar exercícios.
-- **Professores**: Usuários que irão criar videoaulas e exercícios para os alunos.
-- **Administradores**: Responsáveis pela gestão do sistema e usuários.
+- **Professores**: Fabio Batista de Almeida.
+- **Administradores**: Fabio Batista de Almeida.
 
 ---
 
@@ -34,10 +34,8 @@ O uso de videoaulas e exercícios online pode melhorar a aprendizagem de alunos,
 Aplicativo de Reforço Escolar
 
 ### **Integrantes do Grupo**
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
+- Fabio Batista de Almeida
+
 
 ### **URLs Importantes**
 - **Repositório de Código-Fonte**: [https://github.com/seu-repositorio](https://github.com/seu-repositorio)
