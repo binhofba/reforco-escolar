@@ -107,13 +107,7 @@ Aplicativo de Reforço Escolar
 
 Este projeto visa criar uma plataforma de aprendizado interativo para alunos do ensino fundamental. Através de videoaulas e exercícios online, esperamos melhorar o desempenho escolar e fornecer um recurso útil para professores. A continuidade do desenvolvimento dependerá da avaliação dos usuários e de futuras implementações de funcionalidades baseadas no feedback recebido.
 
----
 
-## **Lista de Figuras**
-1. Diagrama de Casos de Uso
 
----
 
-## **Lista de Tabelas**
-1. (Adicionar se houver)
 
