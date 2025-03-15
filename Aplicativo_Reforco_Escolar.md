@@ -5,7 +5,7 @@
 - Fabio Batista de Almeida
 
 ## **URLs Importantes**
-- **Repositório de Código-Fonte**: [https://github.com/seu-repositorio](https://github.com/seu-repositorio)
+- **Repositório de Código-Fonte**: https://github.com/binhofba/reforco-escolar.git
 - **Quadro de Acompanhamento do Projeto**: [https://github.com/seu-repositorio/projects/1](https://github.com/seu-repositorio/projects/1)
 
 ## **Interessados**
